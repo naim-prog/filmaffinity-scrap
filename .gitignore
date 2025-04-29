@@ -7,3 +7,5 @@ ideas.txt
 # Environment file
 .env
 
+# Data files
+*.data
