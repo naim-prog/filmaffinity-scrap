@@ -3,7 +3,7 @@ ideas.txt
 
 # HTML's pages of filmaffinity
 /htmls_film_info
-/user_reviews
+/film_reviews
 
 # Environment file
 .env
